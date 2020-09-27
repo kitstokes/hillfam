@@ -12,7 +12,7 @@ url: https://kitstokes.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /stokeshill
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/kitstokes/stokeshill
 
 ##########
 # SITE SETTINGS
