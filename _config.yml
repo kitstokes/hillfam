@@ -10,20 +10,20 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://kitstokes.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /stokeshill
+baseurl: /hillfam
 # location of code, the full url to your github repository
-source-code: https://github.com/kitstokes/stokeshill
+source-code: https://github.com/kitstokes/hillfam
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Stokes-Hill Family Collection
+title: Hill Family History Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Documentation of the Stokes-Hill Family
+tagline: A Documentation of the Hill Family in Missouri, California, and Elsewhere 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection contains photographs and other documents tracing the history of the Stokes-Hill family in the United States and elsewhere."
+description: "This collection contains photographs and other documents tracing the history of the Hill family in the United States and elsewhere."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: kitstokes
 
