@@ -1,4 +1,4 @@
-field,display_name,browse_link
+field,display_name,browse_link,hidden
 title,Title,
 creator,Creator,
 date,Date Created,
@@ -8,8 +8,6 @@ location,Location,true,
 latitude,Latitude
 longitude,Longitude
 source,Source
-identifier,Source Identifier
-type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,
