@@ -12,7 +12,8 @@ permalink: /about.html
 
 ## About the Collection
 
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site is a repository for photographs, documents, and other primary source material related to the Hill family. 
+<!-- This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPEG images or PDF documents
@@ -57,4 +58,4 @@ To build one, a user writes in [Markdown](https://guides.github.com/features/mas
 
 {% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="When clicked:" text="A Modal will pop out a box with some more information" color="primary"  %}
 
-We hope this makes it easier for site builders to develop the collection AND add interesting and engaging contextual information.  
+We hope this makes it easier for site builders to develop the collection AND add interesting and engaging contextual information.   -->
