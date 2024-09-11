@@ -13,9 +13,10 @@ permalink: /about.html
 ## About the Collection
 
 This site is a repository for photographs, documents, and other primary source material related to the Hill family. 
-<!-- This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
-- a CSV of collection metadata
+<!-- This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from:  -->
+
+<!-- - a CSV of collection metadata
 - a folder of JPEG images or PDF documents
 
 The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
@@ -30,11 +31,11 @@ To build one, a user writes in [Markdown](https://guides.github.com/features/mas
 
 (Each included file has several options, which are documented in the files themselves. I've given the content widths of 25% and 50% to save space, but you can feature the entire image or document.) 
 
-- Image --> `{% raw %}{% include feature/item-figure.html objectid="demo_001" width="25" %}{% endraw %}`
+- Image `{% raw %}{% include feature/item-figure.html objectid="demo_001" width="25" %}{% endraw %}`
 
 {% include feature/item-figure.html objectid="demo_001" width="25" %}
 
-- PDF -- > `{% raw %}{% include feature/item-pdf-embed.html objectid="demo_002"  width="25" %}{% endraw %}`
+- PDF `{% raw %}{% include feature/item-pdf-embed.html objectid="demo_002"  width="25" %}{% endraw %}`
 
 {% include feature/item-pdf-embed.html objectid="demo_002" width="25" %}
 
